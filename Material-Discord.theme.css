@@ -33,3 +33,6 @@
 	--popout-radius: 8px;
 	--popout-radius-big: 18px;
 }
+
+.theme-dark {
+	--chat-color: #25262b;
