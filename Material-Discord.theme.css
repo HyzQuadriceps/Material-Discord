@@ -13,9 +13,9 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
 
 :root {
-	--accent-hue: 334;
+	--accent-hue: 337;
 	--accent-saturation: 100%;
-	--accent-lightness: 68%;
+	--accent-lightness: 50%;
 	--accent-text-color: #fff;
 	--accent-button-action: #fff; /*	-	*/
 
